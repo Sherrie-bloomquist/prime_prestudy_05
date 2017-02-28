@@ -1,0 +1,1 @@
+This was a very early assignment at Prime Digital Academy. It was in week5 of the pre-work phase and just required me to create a simple HTML and JS file structure and with the given object fix all the syntax errors.
